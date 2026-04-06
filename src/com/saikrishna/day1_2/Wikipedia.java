@@ -11,6 +11,6 @@ public class Wikipedia
 
     public void showWiki()
     {
-        System.out.println("use of wiki:"+this.use);
+        System.out.println("use of wikipedia:"+this.use);
     }
 }
